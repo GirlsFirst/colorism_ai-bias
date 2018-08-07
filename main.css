@@ -30,7 +30,7 @@ nav ul {
   line-height: 40px;
   height: 40px;
   font-family: 'Open Sans', sans-serif;
-  border-bottom: 1px black solid;
+  border-bottom: 1px rgb(85, 41, 23) solid;
 }
 
 nav ul li{
