@@ -102,7 +102,7 @@ em {
 }
 
 #group_photo {
-  background-color: rgb(85, 41, 23);
+  background-color: rgba(239, 207, 195, 0.5);
   width: 37%;
   height: 250px;
   border: solid black 2px;
@@ -115,6 +115,12 @@ em {
   text-align: center;
   color: rgb(0,0,0);
   font-size: 25px;
+}
+
+#group_photo img {
+  height: 250px;
+  display: block;
+  margin: 0 auto;
 }
 
 .column i {
@@ -138,4 +144,8 @@ em {
 .question {;
   font-weight: bold;
   font-size: 22px;
+}
+
+.column {
+  padding-bottom: 25px;
 }
