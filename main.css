@@ -37,8 +37,8 @@ nav ul li{
   list-style: none;
   float: left;
   position: relative;
-  padding-left: 6%;
-  padding-right: 6%;
+  padding: 0 2%;
+  margin: 0 3.5%;
 }
 
 nav ul li:hover {
@@ -119,4 +119,23 @@ em {
 
 .column i {
   padding-left: 3%;
+}
+
+.column img {
+  width: 75%;
+  margin: 0 auto;
+  display: block;
+}
+
+.body a {
+  color: black;
+}
+
+.body a:hover {
+  color: purple;
+}
+
+.question {;
+  font-weight: bold;
+  font-size: 22px;
 }
