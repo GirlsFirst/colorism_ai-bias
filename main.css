@@ -104,10 +104,9 @@ em {
 #group_photo {
   background-color: rgba(239, 207, 195, 0.5);
   width: 37%;
-  height: 250px;
-  border: solid black 2px;
+  /* height: 250px; */
   display: block;
-  margin: 2% auto;
+  margin: 2% auto 0 auto;
 }
 
 #group_photo p {
@@ -118,9 +117,11 @@ em {
 }
 
 #group_photo img {
-  height: 250px;
+  /* height: 250px; */
+  width: 100%;
   display: block;
   margin: 0 auto;
+  border: solid black 2px;
 }
 
 .column i {
@@ -148,4 +149,23 @@ em {
 
 .column {
   padding-bottom: 25px;
+}
+
+.arrows {
+  width: 6%;
+  margin: 0 48%;
+}
+
+.arrows i {
+  text-align: center;
+  font-size: 40px;
+  padding: 0 5%;
+}
+
+.arrows i:hover {
+ color: rgb(255, 255, 255);
+}
+
+.arrows i:active {
+ color: rgb(85, 41, 23);
 }
