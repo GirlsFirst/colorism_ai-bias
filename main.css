@@ -197,3 +197,22 @@ em {
 .to_top:hover a {
   color: rgb(85, 41, 23);
 }
+
+.three_columns {
+  width: 33%;
+  float: left;
+}
+
+.three_columns img {
+  height: 200px;
+}
+
+.column .joy {
+ width: 65%;
+}
+
+iframe {
+  border: 0;
+  display: block;
+  margin: 0 auto;
+}
