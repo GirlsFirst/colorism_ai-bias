@@ -252,3 +252,8 @@ iframe {
   margin: 0 8.5%;
   float: left;
 }
+
+header h1 a {
+  text-decoration: none;
+  color: rgb(230, 172, 0);
+}
