@@ -1,5 +1,6 @@
 .body h3 {
   margin-left: 3%;
+  text-align: left;
 }
 
 .body li {
@@ -8,4 +9,19 @@
 
 .body ul {
   list-style-image: url('bullet-point.png');
+}
+
+#thanks {
+  text-align: center;
+  font-family: 'Bilbo Swash Caps', cursive;
+  font-size: 50px;
+}
+
+.three_columns {
+  margin-top: 2%;
+}
+
+#left, #right {
+  width: 25%;
+  margin-left: 6%;
 }

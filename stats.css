@@ -22,7 +22,8 @@ img {
   list-style-image: url('bullet-point.png');
 }
 
-.three_columns{
-  width: 31%;
-  margin: 0 1%;
+.columns {
+  width: 29%;
+  margin: 0 2%;
+  float: left;
 }
