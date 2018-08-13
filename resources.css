@@ -1,0 +1,11 @@
+.body h3 {
+  margin-left: 3%;
+}
+
+.body li {
+  margin-left: 6%;
+}
+
+.body ul {
+  list-style-image: url('bullet-point.png');
+}
