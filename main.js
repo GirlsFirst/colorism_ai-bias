@@ -1,4 +1,4 @@
-pictures = ["./carousel_images/getting_ids.jpg", "./carousel_images/audible_studios.png", "./carousel_images/bri_questions.jpg", "./carousel_images/coding_is_fun.jpg", "./carousel_images/love_puzzles.jpg", "./carousel_images/tech_day.png", "./carousel_images/walking-in.jpg", "./carousel_images/brianna_smiling.JPG", "./carousel_images/bri_typing.JPG", "./carousel_images/jennah_typing.JPG", "./carousel_images/jennah_typing2.JPG", "./carousel_images/nessa_typing.JPG"]
+pictures = ["./carousel_images/group1.JPG", "./carousel_images/group2.JPG", "./carousel_images/group3.JPG", "./carousel_images/group4.JPG", "./carousel_images/getting_ids.jpg", "./carousel_images/audible_studios.png", "./carousel_images/bri_questions.jpg", "./carousel_images/coding_is_fun.jpg", "./carousel_images/love_puzzles.jpg", "./carousel_images/tech_day.png", "./carousel_images/walking-in.jpg", "./carousel_images/brianna_smiling.JPG", "./carousel_images/bri_typing.JPG", "./carousel_images/jennah_typing.JPG", "./carousel_images/jennah_typing2.JPG", "./carousel_images/nessa_typing.JPG"]
 
 function lastPic() {
   var getImage = document.getElementById("image");
